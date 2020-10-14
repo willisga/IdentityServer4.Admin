@@ -4,6 +4,8 @@
 
 > The administration of the IdentityServer4 and Asp.Net Core Identity
 
+Test
+
 ## Project Status
 
 [![Build status](https://ci.appveyor.com/api/projects/status/5yg59bn70399hn6s/branch/master?svg=true)](https://ci.appveyor.com/project/JanSkoruba/identityserver4-admin/branch/master)
